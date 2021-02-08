@@ -1,0 +1,16 @@
+.productBanner {
+  height: 496px;
+  background-image: url(https://www.bancellsfloristes.com/wp-content/uploads/2018/12/toa-heftiba-470545-unsplash-scaled.jpg);
+  padding-top: 40px;
+  padding-right: 40px;
+}
+
+.productBanner .product-noReason {
+  width: 88px;
+  height: 327px;
+}
+
+.product_Items {
+  width: 300px;
+}
+/*# sourceMappingURL=product.css.map */

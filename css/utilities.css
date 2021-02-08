@@ -1,0 +1,87 @@
+.fz-xl {
+  font-size: 36px;
+}
+
+.fz-l {
+  font-size: 28px;
+}
+
+.fz-m {
+  font-size: 24px;
+}
+
+.fz-s {
+  font-size: 20px;
+}
+
+.fz-xs {
+  font-size: 16px;
+}
+
+.lh-40 {
+  line-height: 40px;
+}
+
+.lh-36 {
+  line-height: 36px;
+}
+
+.lh-30 {
+  line-height: 30px;
+}
+
+.lh-24 {
+  line-height: 24px;
+}
+
+.lh-20 {
+  line-height: 20px;
+}
+
+.fw-700 {
+  font-weight: 700;
+}
+
+.fw-500 {
+  font-weight: 500;
+}
+
+.fw-400 {
+  font-weight: 400;
+}
+
+.fw-300 {
+  font-weight: 300;
+}
+
+.fw-100 {
+  font-weight: 100;
+}
+
+.ta-c {
+  text-align: center;
+}
+
+.mb-30 {
+  margin-bottom: 30px;
+}
+
+.mb-100 {
+  margin-bottom: 100px;
+}
+
+.imgArea {
+  background-position: center;
+  background-size: cover;
+}
+
+.vertical-lr {
+  -webkit-writing-mode: vertical-lr;
+      -ms-writing-mode: tb-lr;
+          writing-mode: vertical-lr;
+}
+
+.yellowBtn {
+  padding: 22px;
+}
+/*# sourceMappingURL=utilities.css.map */

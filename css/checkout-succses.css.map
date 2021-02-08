@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,CAAA;EACP,gBAAgB,EAAE,mEAAmE;EACrF,MAAM,EAAE,KAAK;EACb,mBAAmB,EAAE,MAAM;EAC3B,eAAe,EAAE,KAAK;CACzB",
+    "sources": [
+        "../scss/checkout-succses.scss"
+    ],
+    "names": [],
+    "file": "checkout-succses.css"
+}

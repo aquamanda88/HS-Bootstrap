@@ -1,0 +1,120 @@
+body{
+    font-family: 'Roboto', 'Noto Sans TC', sans-serif;
+    font-weight: 300;
+    line-height: 2;
+    color: $primary;
+}
+a{
+    display: block;
+}
+a:hover{
+    text-decoration: none;
+}
+img{
+    display: block;
+    max-width: 100%;
+}
+code{
+    background-color: #f8f9fa;
+    color: #bd4147;
+    padding: 0.2rem 0.4rem;
+    border-radius: 0.25rem;
+}
+ul{
+    padding-left: 0;
+    margin-bottom: 0;
+}
+li{
+    list-style-type: none;
+}
+.logo-lg{
+    width: 180px;
+    height: 40px;
+}
+.logo-sm{
+    width: 114px;
+    height: 18px;
+}
+.headerLinks{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.menuList{
+    display: flex;
+    align-items: center;
+}
+.menuItem a{
+    padding: 30px;
+}
+.cartBtn a{
+    font-size: 24px;
+    padding: 30px 0 30px 30px;
+}
+.cartBtn a:hover{
+    opacity: 0.8;
+}
+
+.logo-light{
+    width: 40px;
+    height: auto;
+}
+.contactEmail{
+    padding: 30px;
+}
+.emailGroup{
+    position: relative;
+    width: 380px;
+    input{
+        text-indent: 40px;
+    }
+    .fa-envelope{
+        position: absolute;
+        left: 20px;
+        top: 16px;
+        color: $primary;
+        z-index: 100;
+    }
+    .fa-envelope:before{
+        font-family: "Font Awesome 5 Free"; 
+        font-weight: 900; 
+        content: "\f0e0";
+    }
+    .emailInput{
+        width: 316px;
+        height: 56px;
+    }
+    .emailBtn{
+        width: 64px;
+        height: 56px;
+    }
+}
+.contactInfo{
+    padding: 30px;
+    .footerLogo{
+        width: 170px;
+        margin-bottom: 115px;
+    }
+    .contactList{
+        margin-bottom: 30px;
+    }
+    .socialMedia-links{
+        .lineIcon, .facebookIcon{
+            width: 32px;
+            height: 32px;
+        }
+        .lineIcon:hover, .facebookIcon:hover{
+            opacity: 0.8;
+        }
+    }
+    .sloganInfo{
+        .sloganTitle{
+            width: 60px;
+        }
+    }
+    .rightTitle-Mobie{
+        display: none;
+    }
+}
+.form-control{
+    background-clip: border-box;
+}

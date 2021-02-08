@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,CAAA;EACP,OAAO,EAAE,SAAS;CACrB",
+    "sources": [
+        "../scss/receipt-e.scss"
+    ],
+    "names": [],
+    "file": "receipt-e.css"
+}

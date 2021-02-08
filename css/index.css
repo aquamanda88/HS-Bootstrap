@@ -1,0 +1,52 @@
+body {
+  font-family: 'Roboto', 'Noto Sans TC', sans-serif;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+code {
+  background-color: #f8f9fa;
+  color: #bd4147;
+  padding: 0.2rem 0.4rem;
+  border-radius: 0.25rem;
+}
+
+ul {
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+.logo-sm {
+  width: 114px;
+  height: 18px;
+}
+
+.banner {
+  height: 277px;
+  background-image: url(https://images.unsplash.com/photo-1473256599800-b48c7c88cd7e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ae0d68ab0db4ee79bdce92722b31112b&auto=format&fit=crop&w=2725&q=80);
+  background-position: center;
+  background-size: cover;
+}
+
+.priLinks .priLinks-item {
+  width: 33.333px;
+  padding: 40px 0;
+}
+
+.priLinks .dessertoftheday {
+  background-image: url(https://images.unsplash.com/photo-1490914327627-9fe8d52f4d90?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=73ed228f25bdefd2291c242f6d390fca&auto=format&fit=crop&w=600&q=60);
+}
+/*# sourceMappingURL=index.css.map */
