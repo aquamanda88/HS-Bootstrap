@@ -1,0 +1,50 @@
+.checkoutArea{
+    padding-bottom: 65px;
+}
+.form-control{
+    border-radius: 0;
+    padding: 17px 20px;
+    height: 56px;
+    background-color: $light;
+    color: $gray;
+}
+.formArea form{
+    padding: 30px 40px;
+}
+.formTitle, .circleBlock{
+    margin-bottom: 30px;
+}
+.circleBlock{
+    position: relative;
+}
+.middlePoint:before, .middlePoint:after{
+    content: "";
+    position: absolute;
+    top: 50%;
+    background: $light;
+    height: 1px;
+    width: 61px;
+}
+.middlePoint:before{
+    left: 11%;
+}
+.middlePoint:after{
+    right: 11%;
+}
+.nextBtn{
+    height: 65px;
+}
+.summaryDetails{
+    border: solid 1px $light;
+    padding: 16px 20px;
+    .summaryImg{
+        width: 180px;
+        height: 80px;
+        background-position: center;
+        background-size: cover;
+    }
+}
+
+
+
+
